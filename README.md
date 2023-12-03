@@ -2,6 +2,7 @@
 AirBnB Clone: Phase # 3
 : API with Swagger
 
+![HBTN-hbnb-Final](https://github.com/marylishop/AirBnB_clone_v3/assets/127736868/227b0de5-f495-494c-ae70-816ebfba64f6)
 Description
 Project attempts to clone the the AirBnB application and website, including the database, storage, RESTful API, Web Framework, and Front End. Currently the application is designed to run with 2 storage engine models:
 
@@ -131,6 +132,7 @@ Continuous Integration Tests
 Uses Travis-CI to run all tests on all commits to the github repo
 
 Authors
-Maryam Ben aissa <mari97149@gmail.com
+
+Maryam Ben aissa <mari97149@gmail.com>
 License
 MIT License
