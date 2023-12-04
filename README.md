@@ -1,5 +1,5 @@
 
-AirBnB Clone: Phase # 3
+<h1>AirBnB Clone: Phase # 3 </h1>
 : API with Swagger
 
 ![HBTN-hbnb-Final](https://github.com/marylishop/AirBnB_clone_v3/assets/127736868/227b0de5-f495-494c-ae70-816ebfba64f6)
@@ -13,7 +13,7 @@ Database Storage Engine:
 
 /models/engine/db_storage.py
 
-To Setup the DataBase for testing and development, there are 2 setup scripts that setup a database with certain privileges: setup_mysql_test.sql & setup_mysql_test.sql (for more on setup, see below).
+<p>To Setup the DataBase for testing and development, there are 2 setup scripts that setup a database with certain privileges: setup_mysql_test.sql & setup_mysql_test.sql (for more on setup, see below).</p>
 
 The Database uses Environmental Variables for tests. To execute tests with the environmental variables prepend these declarations to the execution command:
 
